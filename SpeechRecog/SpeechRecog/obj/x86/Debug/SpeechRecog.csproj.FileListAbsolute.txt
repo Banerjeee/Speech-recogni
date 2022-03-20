@@ -1,0 +1,18 @@
+D:\C#\C# _MJ_project\SpeechRecog\SpeechRecog\bin\Debug\SpeechRecog.exe
+D:\C#\C# _MJ_project\SpeechRecog\SpeechRecog\bin\Debug\SpeechRecog.pdb
+D:\C#\C# _MJ_project\SpeechRecog\SpeechRecog\obj\x86\Debug\SpeechRecog.Form1.resources
+D:\C#\C# _MJ_project\SpeechRecog\SpeechRecog\obj\x86\Debug\SpeechRecog.Properties.Resources.resources
+D:\C#\C# _MJ_project\SpeechRecog\SpeechRecog\obj\x86\Debug\SpeechRecog.csproj.GenerateResource.Cache
+D:\C#\C# _MJ_project\SpeechRecog\SpeechRecog\obj\x86\Debug\SpeechRecog.exe
+D:\C#\C# _MJ_project\SpeechRecog\SpeechRecog\obj\x86\Debug\SpeechRecog.pdb
+C:\Users\baner\Downloads\kashipara.com_myinterview.co_SpeechRecog-zip\SpeechRecog\SpeechRecog\obj\x86\Debug\SpeechRecog.exe
+C:\Users\baner\Downloads\kashipara.com_myinterview.co_SpeechRecog-zip\SpeechRecog\SpeechRecog\obj\x86\Debug\SpeechRecog.pdb
+C:\Users\baner\Downloads\kashipara.com_myinterview.co_SpeechRecog-zip\SpeechRecog\SpeechRecog\bin\Debug\SpeechRecog.exe.config
+C:\Users\baner\Downloads\kashipara.com_myinterview.co_SpeechRecog-zip\SpeechRecog\SpeechRecog\bin\Debug\SpeechRecog.exe
+C:\Users\baner\Downloads\kashipara.com_myinterview.co_SpeechRecog-zip\SpeechRecog\SpeechRecog\bin\Debug\SpeechRecog.pdb
+C:\Users\baner\Downloads\kashipara.com_myinterview.co_SpeechRecog-zip\SpeechRecog\SpeechRecog\obj\x86\Debug\SpeechRecog.csproj.AssemblyReference.cache
+C:\Users\baner\Downloads\kashipara.com_myinterview.co_SpeechRecog-zip\SpeechRecog\SpeechRecog\obj\x86\Debug\SpeechRecog.csproj.SuggestedBindingRedirects.cache
+C:\Users\baner\Downloads\kashipara.com_myinterview.co_SpeechRecog-zip\SpeechRecog\SpeechRecog\obj\x86\Debug\SpeechRecog.Form1.resources
+C:\Users\baner\Downloads\kashipara.com_myinterview.co_SpeechRecog-zip\SpeechRecog\SpeechRecog\obj\x86\Debug\SpeechRecog.Properties.Resources.resources
+C:\Users\baner\Downloads\kashipara.com_myinterview.co_SpeechRecog-zip\SpeechRecog\SpeechRecog\obj\x86\Debug\SpeechRecog.csproj.GenerateResource.cache
+C:\Users\baner\Downloads\kashipara.com_myinterview.co_SpeechRecog-zip\SpeechRecog\SpeechRecog\obj\x86\Debug\SpeechRecog.csproj.CoreCompileInputs.cache
